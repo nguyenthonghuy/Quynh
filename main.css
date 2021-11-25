@@ -158,11 +158,3 @@ p {
     font-size: 4vw;
     
 }
-
-audio {
-    
-  position: absolute;
-  top: 105%;
-  right: 44%;
-  animation: fadein ease 5s;
-}
